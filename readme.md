@@ -1,4 +1,4 @@
-#CNN_Timeseries_Image
+# CNN_Timeseries_Image
 # Introduction
 ##### This work is funded by Shanghai Artificial Intelligence Research institution
 ##### We conduct a research/study on exploring the possibilities on image trans from tiem series.
